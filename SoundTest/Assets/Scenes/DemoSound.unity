@@ -2101,7 +2101,8 @@ AudioSource:
   m_GameObject: {fileID: 293163621}
   m_Enabled: 1
   serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 0}
+  OutputAudioMixerGroup: {fileID: 173083017541123990, guid: bacdd762287638948b672ef5cb9922cb,
+    type: 2}
   m_audioClip: {fileID: 8300000, guid: bae66287aae2bd642aa9cb319e09c40f, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
@@ -2302,7 +2303,8 @@ AudioSource:
   m_GameObject: {fileID: 328802021}
   m_Enabled: 1
   serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 0}
+  OutputAudioMixerGroup: {fileID: 173083017541123990, guid: bacdd762287638948b672ef5cb9922cb,
+    type: 2}
   m_audioClip: {fileID: 8300000, guid: bae66287aae2bd642aa9cb319e09c40f, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
@@ -4624,7 +4626,8 @@ AudioSource:
   m_GameObject: {fileID: 667036860}
   m_Enabled: 1
   serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 0}
+  OutputAudioMixerGroup: {fileID: 173083017541123990, guid: bacdd762287638948b672ef5cb9922cb,
+    type: 2}
   m_audioClip: {fileID: 0}
   m_PlayOnAwake: 1
   m_Volume: 1
@@ -5849,7 +5852,8 @@ AudioSource:
   m_GameObject: {fileID: 850223186}
   m_Enabled: 1
   serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 0}
+  OutputAudioMixerGroup: {fileID: 173083017541123990, guid: bacdd762287638948b672ef5cb9922cb,
+    type: 2}
   m_audioClip: {fileID: 8300000, guid: bae66287aae2bd642aa9cb319e09c40f, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
@@ -7960,7 +7964,8 @@ AudioSource:
   m_GameObject: {fileID: 1233793238}
   m_Enabled: 1
   serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 0}
+  OutputAudioMixerGroup: {fileID: 173083017541123990, guid: bacdd762287638948b672ef5cb9922cb,
+    type: 2}
   m_audioClip: {fileID: 8300000, guid: 02d529c3794b15943b80587efd2c4ade, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
@@ -8934,7 +8939,8 @@ AudioSource:
   m_GameObject: {fileID: 1359603339}
   m_Enabled: 1
   serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 0}
+  OutputAudioMixerGroup: {fileID: 173083017541123990, guid: bacdd762287638948b672ef5cb9922cb,
+    type: 2}
   m_audioClip: {fileID: 8300000, guid: bae66287aae2bd642aa9cb319e09c40f, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
@@ -10511,7 +10517,8 @@ AudioSource:
   m_GameObject: {fileID: 1624087658}
   m_Enabled: 1
   serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 0}
+  OutputAudioMixerGroup: {fileID: 173083017541123990, guid: bacdd762287638948b672ef5cb9922cb,
+    type: 2}
   m_audioClip: {fileID: 8300000, guid: c5ab2220587871747bca54258875fe4f, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
@@ -10607,7 +10614,8 @@ AudioSource:
   m_GameObject: {fileID: 1624087658}
   m_Enabled: 1
   serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 0}
+  OutputAudioMixerGroup: {fileID: 173083017541123990, guid: bacdd762287638948b672ef5cb9922cb,
+    type: 2}
   m_audioClip: {fileID: 8300000, guid: 6a9430961e5a80f43b22a84e6e32ae08, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
@@ -10703,7 +10711,8 @@ AudioSource:
   m_GameObject: {fileID: 1624087658}
   m_Enabled: 1
   serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 0}
+  OutputAudioMixerGroup: {fileID: 7007503971632405205, guid: bacdd762287638948b672ef5cb9922cb,
+    type: 2}
   m_audioClip: {fileID: 8300000, guid: 76ec9ab74e52bc14791f8a03a49c6997, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
@@ -11372,7 +11381,8 @@ AudioSource:
   m_GameObject: {fileID: 1768917900}
   m_Enabled: 1
   serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 0}
+  OutputAudioMixerGroup: {fileID: 173083017541123990, guid: bacdd762287638948b672ef5cb9922cb,
+    type: 2}
   m_audioClip: {fileID: 8300000, guid: bae66287aae2bd642aa9cb319e09c40f, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
@@ -13375,7 +13385,8 @@ AudioSource:
   m_GameObject: {fileID: 2080778954}
   m_Enabled: 1
   serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 0}
+  OutputAudioMixerGroup: {fileID: 173083017541123990, guid: bacdd762287638948b672ef5cb9922cb,
+    type: 2}
   m_audioClip: {fileID: 8300000, guid: bae66287aae2bd642aa9cb319e09c40f, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
